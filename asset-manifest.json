@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/https//akahramn.github.io/portfolio/static/css/main.d250c1e4.css",
-    "main.js": "/https//akahramn.github.io/portfolio/static/js/main.cfead685.js",
-    "static/js/415.4d6acbeb.chunk.js": "/https//akahramn.github.io/portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/https//akahramn.github.io/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "main.js": "/https//akahramn.github.io/portfolio/static/js/main.8c37be3e.js",
+    "static/js/787.5c0b2d12.chunk.js": "/https//akahramn.github.io/portfolio/static/js/787.5c0b2d12.chunk.js",
     "static/media/leaf.png": "/https//akahramn.github.io/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/https//akahramn.github.io/portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/https//akahramn.github.io/portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
@@ -18,12 +17,11 @@
     "static/media/pre.svg": "/https//akahramn.github.io/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/https//akahramn.github.io/portfolio/index.html",
     "main.d250c1e4.css.map": "/https//akahramn.github.io/portfolio/static/css/main.d250c1e4.css.map",
-    "main.cfead685.js.map": "/https//akahramn.github.io/portfolio/static/js/main.cfead685.js.map",
-    "415.4d6acbeb.chunk.js.map": "/https//akahramn.github.io/portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/https//akahramn.github.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.8c37be3e.js.map": "/https//akahramn.github.io/portfolio/static/js/main.8c37be3e.js.map",
+    "787.5c0b2d12.chunk.js.map": "/https//akahramn.github.io/portfolio/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d250c1e4.css",
-    "static/js/main.cfead685.js"
+    "static/js/main.8c37be3e.js"
   ]
 }
